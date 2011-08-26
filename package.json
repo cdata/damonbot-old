@@ -1,0 +1,17 @@
+{
+  "author" : "Christopher Joel <chris@cloudflare.com> (http://www.cloudflare.com)",
+  "name" : "damonbot",
+  "description" : "Damonbot is an awesome chatbot.",
+  "version" : "0.0.1",
+  "repository" : {
+    "type" : "git",
+    "url" : "git://github.com/cdata/damonbot.git"
+  },
+  "engines" : {
+    "node" : "~0.4.10"
+  },
+  "dependencies" : {
+    "multibot" : "~0.0.1"
+  },
+  "devDependencies" : {}
+}
