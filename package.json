@@ -11,7 +11,8 @@
     "node" : "~0.4.10"
   },
   "dependencies" : {
-    "multibot" : "~0.0.1"
+    "multibot" : "~0.0.1",
+	"xml2js"   : "0.1.x"
   },
   "devDependencies" : {}
 }
